@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierre_sevenig@live.com
+	name = Pierre Sevenig
